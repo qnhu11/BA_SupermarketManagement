@@ -1,5 +1,5 @@
 # Supermarket Shelf & Warehouse Management
-### 🔍 Business Analyst Project – Smart Retail Operations  
+🔗 [Google Drive – Diagram & Mockup](https://drive.google.com/drive/folders/1uesrV1lTIYeW0oBRrV4HXZh0ZcjrkWo4?usp=sharing)
 
 ## 📌 Project Overview  
 The Supermarket Shelf & Warehouse Management System is a smart retail solution designed to optimize shelf monitoring and warehouse operations in supermarkets. By integrating robotics, sensor technologies, and automation, the system streamlines inventory control and enhances operational efficiency.
